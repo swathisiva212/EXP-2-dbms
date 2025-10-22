@@ -162,6 +162,7 @@ ALTER TABLE books
 ADD COLUMN ISBN varchar(30);
 ALTER TABLE books
 ADD COLUMN domain_dept varchar(30);
+```
 
 **Output:**
 
