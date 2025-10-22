@@ -104,6 +104,7 @@ CREATE TABLE Table_Name (
 ```
 
 **Question 1**
+
 <img width="826" height="465" alt="image" src="https://github.com/user-attachments/assets/553409ff-be62-4338-a809-0c84707d6687" />
 
 
